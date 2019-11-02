@@ -1,0 +1,18 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Editors
+.vscode
+
+# TypeScript build directory
+build/*
+
+# Secrets
+config.*.json
+
+# Test
+coverage/
